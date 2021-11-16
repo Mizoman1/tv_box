@@ -21,7 +21,7 @@ alias ls='exa -a'
 alias pacs='sudo pacman -S'
 alias gs='git status'
 alias wget='wget --no-hsts'
-alias fzy='fd -H . | fzy'
+alias gt='echo $GITHUB_T'
 
 # Starship prompt
 eval "$(starship init zsh)"
